@@ -1,5 +1,13 @@
 # imgclod
 
+## env variables
+Create a ```.env``` file with:
+
+```
+VUE_APP_CLOUDINARY_UPLOAD_PRESET=
+VUE_APP_CLOUDINARY_URL=
+```
+
 ## Project setup
 ```
 npm install
@@ -19,6 +27,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
